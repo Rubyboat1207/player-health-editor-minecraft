@@ -1,8 +1,8 @@
 # player-health-editor-minecraft
 A Minecraft data pack that edits player health.
-
-# 1.16+ #
-**Note: This data pack is in beta, and is in the works.  If you have any bugs please let me know, and I'll add it to the known bugs list.  Also, this is not tested in any version other then 1.16.4**
+#I have left the readme the same as it was before but please not that this does not work for any versions older than 1.17
+# 1.18+ #
+**Note: This data pack is in beta, and is in the works.  If you have any bugs please let me know, and I'll add it to the known bugs list.  Also, this is not tested in any version other then 1.18.1**
 
 I created a data pack that allows you to set health and  deal damage to a player(for mobs use data modify instead).  First off, you can get the data pack <a href="https://github.com/randomuser922/player-health-editor-minecraft" title="Data pack download link">here</a>.  After installing it, make sure it says in chat that it was installed.
 # How To Use #
