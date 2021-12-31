@@ -1,6 +1,6 @@
 # player-health-editor-minecraft
 A Minecraft data pack that edits player health.
-#I have left the readme the same as it was before but please not that this does not work for any versions older than 1.17
+#I have left the readme the same as it was before but please not that this does not work for any versions older than 1.17#
 # 1.18+ #
 **Note: This data pack is in beta, and is in the works.  If you have any bugs please let me know, and I'll add it to the known bugs list.  Also, this is not tested in any version other then 1.18.1**
 
